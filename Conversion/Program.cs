@@ -13,6 +13,7 @@ namespace Conversion
             float myFloatValue = 10;
             int myIntValue = (int) myFloatValue;
             Console.WriteLine("myIntValue rowna sie " + myIntValue);
+
         }
     }
 }
